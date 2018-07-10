@@ -1,3 +1,7 @@
+
+# Angular Tutorial - Tour of Heroes
+Below is generated automatically via CLI
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
